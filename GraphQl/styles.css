@@ -1,0 +1,13 @@
+.selected-1 {
+  background-color: #ff5733;
+}
+.selected-2 {
+  background-color: #33ff57;
+}
+.selected-3 {
+  background-color: #5733ff;
+}
+
+#filter-input {
+  padding: 10px 15px;
+}
